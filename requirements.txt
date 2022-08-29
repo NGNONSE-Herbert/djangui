@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+mangum
+"python-jose[cryptography]"
+"passlib[bcrypt]"
+pydantic[email]
+sqlalchemy  
+virtualenv  
